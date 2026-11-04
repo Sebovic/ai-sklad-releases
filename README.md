@@ -1,6 +1,6 @@
-# AI-Sklad – downloads
+# ESM (Efficient Stock Manager) – downloads
 
-Installers of the **AI-Sklad** desktop app (warehouse management with AI). The source code is private;
+Installers of the **ESM – Efficient Stock Manager** desktop app (warehouse management with AI, formerly called AI-Sklad). The source code is private;
 this repository only hosts the released installers and the update information used by the app.
 
 ## Download
@@ -10,9 +10,9 @@ the file for your system:
 
 | System | File |
 |---|---|
-| Windows 10/11 | `AI-Sklad-Setup-<version>.exe` |
-| Ubuntu / Debian | `AI-Sklad-<version>-amd64.deb` |
-| Other Linux | `AI-Sklad-<version>-x86_64.AppImage` |
+| Windows 10/11 | `ESM-Setup-<version>.exe` |
+| Ubuntu / Debian | `ESM-<version>-amd64.deb` |
+| Other Linux | `ESM-<version>-x86_64.AppImage` |
 
 On Windows the installer is not code-signed, so Windows may show *"Windows protected your PC"*.
 Click **More info → Run anyway**.
